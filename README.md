@@ -57,7 +57,7 @@
     │  __init__.py
 ```
 
-#### 测试步骤
+#### 使用方法
 
 1. 在cmd中切换到本系统文件manage.py所在目录，执行python manage.py runserver ["host":"port"]，可以不输，默认为本地服务器；
 2. 在浏览器输入host:port/api/upfile，在此页面即可上传动态和查看所有动态；
